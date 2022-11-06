@@ -54,6 +54,7 @@ t.pendown()
 t.fd(50)
 
 t.circle(30)
+t.circle(40)
 
 t.write("momamvi", font =("Arial Black", 25, "normal"), align = "center")
 
