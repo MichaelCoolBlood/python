@@ -30,21 +30,21 @@
 # lst.sort() #.sort - сортировка
 # lst.sort(reverse=True) #.sort(reverse=True) - от меньшего к большему
 # print(lst)
-
+#__________________________________________________________________
 #кортеж
 # tup = (1, 2, 3)
 # # tup = 1, 2, 3
 # # tup = 1,
 # print(max(tup))
 # print(min(tup))
-
+#__________________________________________________________________
 # list1 = ["A", "B", "C",]
 # list2 = ["1", "2", "3",]
 # couple = zip(list1, list2) # zip - функция обьединения по индексу
 #
 # for bogdan in couple:
 #     print(bogdan)
-
+#___________________________________________________________________
 from collections import namedtuple
 
 citizen = namedtuple("житель", "имя, возраст, статус")
@@ -56,6 +56,8 @@ print(alex.имя)
 print(alex.статус)
 
 print(alex)
+
+
 
 
 
