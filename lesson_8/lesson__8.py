@@ -1,15 +1,15 @@
 # import random
 # print(random.randint(0, 100))
-
+#
 # import random as r
 # print(r.randint(0, 100))
-
+#
 # from random import randint
 # print(randint(0, 100))
-
+#
 # from random import *
 # print(randint(0, 100))
-
+#
 # import random as r
 # lst = [0, 1, 2, 3, 4, 5]
 # print(r.choice(lst))
