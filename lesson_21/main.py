@@ -1,4 +1,4 @@
-# f = open("file.txt", "w", encoding="utf-8")
+f = open("file.txt", "w", encoding="utf-8")
 # f.write("А, э")
 # f.close
 #__________________________________________________________
