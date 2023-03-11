@@ -1,0 +1,12 @@
+[
+    {
+        "firstName": "Иван",
+        "lastName": "Петров",
+        "birthDate": "29.02.2001"
+    },
+    {
+        "firstName": "Пётр",
+        "lastName": "Иванов",
+        "city": "Novosibirsk"
+    }
+]
